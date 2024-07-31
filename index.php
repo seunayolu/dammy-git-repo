@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- File index.php -->
 <html>
 <head>
 <title>Hello world</title>
